@@ -25,7 +25,7 @@
 <div> 
     <h3> <strong> Computador Desktop Completo </strong> </h3>
     <p> R$ 2.500,00 </p>
-    <img src="Desktop.jpg" 
+    <img src="desktop.jpg" 
     alt="Computador Desktop Completo"
     title="Computador Desktop Completo">
     <p> Já vem com Monitor LED HDMI Intel Core i5 8GB HD 500GB
